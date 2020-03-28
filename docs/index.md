@@ -2,7 +2,7 @@
 
 ## Authors
 
-*  [Florian Thiery](https://tools.wmflabs.org/scholia/author/Q66606154)
+*  Florian Thiery [![wikidata](https://img.shields.io/badge/Wikidata-Q66606154-blue.svg)](https://www.wikidata.org/wiki/Q66606154) [![scholia](https://img.shields.io/badge/Scholia-Q66606154-green.svg)](https://tools.wmflabs.org/scholia/author/Q66606154)
 
 ## Publications
 
