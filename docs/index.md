@@ -17,6 +17,7 @@ see https://www.wikidata.org/wiki/Wikidata:WikiProject_Events
 ## Conference Individuals
 
 * Graph Technologies in the Humanities 2020 [![wikidata](https://img.shields.io/badge/Wikidata-Q88860125-blue.svg)](https://www.wikidata.org/wiki/Q88860125)
+* Graph Technologies in the Humanities 2019 [![wikidata](https://img.shields.io/badge/Wikidata-Q88864270-blue.svg)](https://www.wikidata.org/wiki/Q88864270)
 
 ## Talks
 
