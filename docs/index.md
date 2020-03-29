@@ -18,6 +18,8 @@
   * `8. Workshop der AG CAA` [![wikidata](https://img.shields.io/badge/Wikidata-Q88951478-blue.svg)](https://www.wikidata.org/wiki/Q88951478) [![scholia](https://img.shields.io/badge/Scholia-Q88951478-green.svg)](https://tools.wmflabs.org/scholia/venue/Q88951478)
   * `7. Workshop der AG CAA` [![wikidata](https://img.shields.io/badge/Wikidata-Q88952667-blue.svg)](https://www.wikidata.org/wiki/Q88952667) [![scholia](https://img.shields.io/badge/Scholia-Q88952667-green.svg)](https://tools.wmflabs.org/scholia/venue/Q88952667)
   * `6. Workshop der AG CAA` [![wikidata](https://img.shields.io/badge/Wikidata-Q88953162-blue.svg)](https://www.wikidata.org/wiki/Q88953162) [![scholia](https://img.shields.io/badge/Scholia-Q88953162-green.svg)](https://tools.wmflabs.org/scholia/venue/Q88953162)
+  * `5. Workshop der AG CAA` [![wikidata](https://img.shields.io/badge/Wikidata-Q88954132-blue.svg)](https://www.wikidata.org/wiki/Q88954132) [![scholia](https://img.shields.io/badge/Scholia-Q88954132-green.svg)](https://tools.wmflabs.org/scholia/venue/Q88954132)
+  * `4. Workshop der AG CAA` [![wikidata](https://img.shields.io/badge/Wikidata-Q88954519-blue.svg)](https://www.wikidata.org/wiki/Q88954519) [![scholia](https://img.shields.io/badge/Scholia-Q88954519-green.svg)](https://tools.wmflabs.org/scholia/venue/Q88954519)
 
 ## Talks
 
