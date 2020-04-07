@@ -31,7 +31,20 @@
 * `SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata`
   * [![wikidata](https://img.shields.io/badge/Wikidata-Q88091985-blue.svg)](https://www.wikidata.org/wiki/Q88091985) in [![wikidata](https://img.shields.io/badge/Wikidata-Q88860125-blue.svg)](https://www.wikidata.org/wiki/Q88860125)
 
-## Publications
+## Journals
 
+### Zeitschrift für digitale Geisteswissenschaften
+
+* `Zeitschrift für digitale Geisteswissenschaften`
+  * [![wikidata](https://img.shields.io/badge/Wikidata-Q50817854-blue.svg)](https://www.wikidata.org/wiki/Q50817854)
+* `Zeitschrift für digitale Geisteswissenschaften - Sonderband 4`
+  * [![wikidata](https://img.shields.io/badge/Wikidata-Q89660958-blue.svg)](https://www.wikidata.org/wiki/Q89660958)
 * `Academic Meta Tool. Ein Web-Tool zur Modellierung von Vagheit`
   * [![wikidata](https://img.shields.io/badge/Wikidata-Q88092129-blue.svg)](https://www.wikidata.org/wiki/Q88092129)
+
+### Research Squirrel Engineers - Squirrel Papers
+
+* `Research Squirrel Engineers - Squirrel Papers`
+  * [![wikidata](https://img.shields.io/badge/Wikidata-Q89658875-blue.svg)](https://www.wikidata.org/wiki/Q89658875)
+* `The SPARQL Unicorn: An introduction`
+  * [![wikidata](https://img.shields.io/badge/Wikidata-Q89659767-blue.svg)](https://www.wikidata.org/wiki/Q89659767)
